@@ -1,0 +1,27 @@
+body{
+    background-color: darkgreen;
+}
+
+p{
+    color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+button{
+    border: none;
+    background-color:darkgreen;
+    padding: 15px 15px;
+    font-size: 15px;
+    cursor: pointer;
+    display: block;
+    margin-right: 5px;
+}
+h1{
+    color: white !important;
+}
+table{
+    background-color: white;
+    color: black !important;
+}
